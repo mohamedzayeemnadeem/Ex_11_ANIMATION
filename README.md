@@ -21,8 +21,8 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: Bala R
-Registeration Number : 212222220007
+Developed by: mohamed zayeem nadeem
+Registeration Number : 212222040102
 */
 ```
 
